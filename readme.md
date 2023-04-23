@@ -55,5 +55,16 @@
 |Clustal Web App|<a href="https://formacio.bq.ub.edu/~u217733/clustal.php">here</a>|A php web application to perform multiple sequence alignment using Clustal-Omega|
 
 
+<h3 align="center">
+<img src="./imgs/bash.png" height="40" width="" style="margin-right: 10px">
+</h3>
+
+|name|description|
+|---|---|
+|<a href="https://github.com/niqolla/fastascan">fastascan</a>|basic shell script that finds and analyses fasta and fa files of directory and subdirectories|
 
 		
+<h2 align="center">Other languages and tools I have some experience in:</h2>
+<h3 align="center">
+<img src="./imgs/excel.png" height="40" width="" style="margin-right: 10px"><img src="./imgs/cpp.png" height="40" width="" style="margin-right: 10px"><img src="./imgs/perl.png" height="40" width="" style="margin-right: 10px"><img src="./imgs/ruby.png" height="40" width="" style="margin-right: 10px">
+</h3>
