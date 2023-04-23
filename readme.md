@@ -1,11 +1,10 @@
-<img src="./imgs/banner.png">
-
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./imgs/banner_dark.png"> 
-    <source media="(prefers-color-scheme: light)" srcset="./imgs/banner.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niqolla/niqolla/main/imgs/banner_dark.jpg"> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niqolla/niqolla/main/imgs/banner.png">
+    <img alt="S">
 </picture>
 
-<p align='center' style="font-size: 26px"><i><b>I'm a bioinformatics guy who is driven by creating solutions  in python.</b></i></h2>
+<h3 align="center"><i><b>I'm a bioinformatics guy who is driven by creating solutions  in python.</b></i></h3>
 
 <br>
 
