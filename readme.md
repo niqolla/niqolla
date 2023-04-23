@@ -41,7 +41,7 @@
 |name (github link)|live|description|
 |---|---|---|
 |<a href="https://github.com/niqolla/hospital_managment_app_django">Hospital Management Web App</a>|<a href="https://formacio.bq.ub.edu/u217733/medbook/start">here</a>|A webapp for managing patient registration, health check-ups and diagnosis-treatements.|
-|<a href="https://github.com/niqolla/hospital_managment_app_django">Clustal Web App</a>|<a href="https://formacio.bq.ub.edu/u217733/medbook/start">here</a>|A django web application to perform multiple sequence alignment using Clustal-Omega|
+|<a href="https://github.com/niqolla/clustal_web_DBW">Clustal Web App</a>|<a href="https://formacio.bq.ub.edu/u217733/medbook/start">here</a>|A django web application to perform multiple sequence alignment using Clustal-Omega|
 |<a href="https://github.com/niqolla/django_projects">Other django projects</a>||Some basic projects that made me feel more comfortable with django |		
 
 <h3 align="center">
