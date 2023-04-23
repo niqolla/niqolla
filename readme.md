@@ -6,8 +6,6 @@
 
 <h3 align="center"><i><b>I'm a bioinformatics guy who is driven by creating solutions  in python.</b></i></h3>
 
-<br>
-
 <h1 align="center">Projects</h1>
 <p align="center">Below are some of my published projects divided by the catogory they belong to.</p>
 
@@ -63,6 +61,7 @@
 |---|---|
 |<a href="https://github.com/niqolla/fastascan">fastascan</a>|basic shell script that finds and analyses fasta and fa files of directory and subdirectories|
 
+<br>
 		
 <h2 align="center">Other languages and tools I have some experience in:</h2>
 <h3 align="center">
