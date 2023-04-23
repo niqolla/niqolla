@@ -1,9 +1,9 @@
 <img src="./imgs/banner.png">
 
-<image>
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="./imgs/banner_dark.png"> 
     <source media="(prefers-color-scheme: light)" srcset="./imgs/banner.png">
-</image>
+</picture>
 
 <p align='center' style="font-size: 26px"><i><b>I'm a bioinformatics guy who is driven by creating solutions  in python.</b></i></h2>
 
