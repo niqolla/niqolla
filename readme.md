@@ -63,7 +63,13 @@
 
 <br>
 		
-<h2 align="center">Other languages and tools I have some experience in:</h2>
+<h2 align="center">Other languages and tools I have experience in:</h2>
 <h3 align="center">
-<img src="./imgs/excel.png" height="50" width="" style="margin-right: 10px"><img src="./imgs/cpp.png" height="50" width="" style="margin-right: 10px"><img src="./imgs/perl.png" height="50" width="" style="margin-right: 10px"><img src="./imgs/ruby.png" height="50" width="" style="margin-right: 10px">
+<img src="./imgs/chimera.png" height="50" width="" style="margin-right: 10px">
+<img src="./imgs/vmd.png" height="50" width="" style="margin-right: 10px">
+<img src="./imgs/DataWarrior.png" height="50" width="" style="margin-right: 10px">
+<img src="./imgs/excel.png" height="50" width="" style="margin-right: 10px">
+<img src="./imgs/cpp.png" height="50" width="" style="margin-right: 10px">
+<img src="./imgs/perl.png" height="50" width="" style="margin-right: 10px">
+<img src="./imgs/ruby.png" height="50" width="" style="margin-right: 10px">
 </h3>
