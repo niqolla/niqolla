@@ -33,9 +33,9 @@
 
 
 <h3 align="center">
-<img src="./imgs/django.png" height="40" width="" style="margin-right: 10px">
+<img src="./imgs/django.png" height="50" width="" style="margin-right: 10px">
 <img src="./imgs/html_css.png" height="50" width="" style="margin-right: 10px">
-<img src="./imgs/sqllite.png" height="40" width="" style="margin-right: 10px">
+<img src="./imgs/sqllite.png" height="50" width="" style="margin-right: 10px">
 </h3>
 
 |name (github link)|live|description|
@@ -45,7 +45,7 @@
 |<a href="https://github.com/niqolla/django_projects">Other django projects</a>||Some basic projects that made me feel more comfortable with django |		
 
 <h3 align="center">
-<img src="./imgs/php.png" height="40" width="" style="margin-right: 10px">
+<img src="./imgs/php.png" height="50" width="" style="margin-right: 10px">
 </h3>
 
 |name|live|description|
@@ -54,7 +54,7 @@
 
 
 <h3 align="center">
-<img src="./imgs/bash.png" height="40" width="" style="margin-right: 10px">
+<img src="./imgs/bash.png" height="50" width="" style="margin-right: 10px">
 </h3>
 
 |name|description|
@@ -65,5 +65,5 @@
 		
 <h2 align="center">Other languages and tools I have some experience in:</h2>
 <h3 align="center">
-<img src="./imgs/excel.png" height="40" width="" style="margin-right: 10px"><img src="./imgs/cpp.png" height="40" width="" style="margin-right: 10px"><img src="./imgs/perl.png" height="40" width="" style="margin-right: 10px"><img src="./imgs/ruby.png" height="40" width="" style="margin-right: 10px">
+<img src="./imgs/excel.png" height="50" width="" style="margin-right: 10px"><img src="./imgs/cpp.png" height="50" width="" style="margin-right: 10px"><img src="./imgs/perl.png" height="50" width="" style="margin-right: 10px"><img src="./imgs/ruby.png" height="50" width="" style="margin-right: 10px">
 </h3>
