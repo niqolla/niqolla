@@ -1,8 +1,6 @@
 <img src="./imgs/banner.png">
 
 <h2 align='center'><i>I'm a bioinformatics guy who is driven by creating solutions  in python.</i></h2>
-<br>
-<br>
 
 <h1 align='center'>Projects</h1>
 
