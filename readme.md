@@ -22,7 +22,16 @@
 |<a href="https://github.com/niqolla/DataMining">Data Mining and Machine Learning</a>|Analysis of biological data with Python (projects: 2 and 3)|
 |<a href="https://github.com/niqolla/bayesian_statistics_bioinformatics">Bayesian Statistics</a>|Bayesian Statistics examples in biology|
 |<a href="https://github.com/niqolla/python_basics_and_OOP_exercises_bioinformatics">Python for Bioinformatics</a>|Bioinformatics exercices for basics in python and more advanced concepts (OOP, Exception Handling) in the later folders|
+|<a href="https://github.com/niqolla#-1">Web development in Django</a>|See below (after R)|
 
+<h3 align="center">
+<img src="./imgs/R.png" height="50" width="" style="margin-right: 10px">
+</h3>
+
+|name|description|
+|---|---|
+|<a href="https://github.com/niqolla/DataMining">Data Mining and Machine Learning</a>|Analysis of biological data with R (project: 1)|
+|<a href="https://github.com/niqolla/olig2">Olig2 Analysis</a>|A a chip-seq analysis in R to investigate OLIG2 as a transcription factor.|
 
 
 <h3 align="center">
@@ -45,14 +54,6 @@
 |---|---|---|
 |Clustal Web App|<a href="https://formacio.bq.ub.edu/~u217733/clustal.php">here</a>|A php web application to perform multiple sequence alignment using Clustal-Omega|
 
-<h3 align="center">
-<img src="./imgs/R.png" height="50" width="" style="margin-right: 10px">
-</h3>
-
-|name|description|
-|---|---|
-|<a href="https://github.com/niqolla/DataMining">Data Mining and Machine Learning</a>|Analysis of biological data with R (project: 1)|
-|<a href="https://github.com/niqolla/olig2">Olig2 Analysis</a>|A a chip-seq analysis in R to investigate OLIG2 as a transcription factor.|
 
 
 		
