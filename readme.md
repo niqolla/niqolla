@@ -12,7 +12,7 @@
 <p align="center">Below are some of my published projects divided by the catogory they belong to.</p>
 
 <h3 align="center">
-  <img src="./imgs/python.png" height="50" width="50" style="margin-right: 10px"> 
+  <img src="./imgs/python.png" height="50" width="50" style="margin-right: 10px"> Python
 </h3>
 
 |name|description|
