@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 style="display: flex; align-items: center; justify-content: center;">
+<h2 align="center">
   <img src="./imgs/python.png" height="30" width="30" style="margin-right: 10px;"> Python
 </h2>
 
