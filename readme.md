@@ -59,7 +59,7 @@
 
 |name|description|
 |---|---|
-|<a href="https://github.com/niqolla/fastascan">fastascan</a>|basic shell script that finds and analyses fasta and fa files of directory and subdirectories|
+|<a href="https://github.com/niqolla/fastascan">fastascan</a>|A basic shell script that finds and analyses fasta and fa files of directory and subdirectories|
 
 <br>
 		
