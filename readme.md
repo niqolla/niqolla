@@ -1,6 +1,6 @@
 <img src="./imgs/banner.png">
 
-<p align='center' style="font-size: 26px"><i>I'm a bioinformatics guy who is driven by creating solutions  in python.</i></h2>
+<p align='center' style="font-size: 26px"><i><b>I'm a bioinformatics guy who is driven by creating solutions  in python.</b></i></h2>
 
 <br>
 
