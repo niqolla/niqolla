@@ -44,6 +44,15 @@
 |<a href="https://github.com/niqolla/clustal_web_DBW">Clustal Web App</a>|<a href="https://formacio.bq.ub.edu/u217733/medbook/start">here</a>|A django web application to perform multiple sequence alignment using Clustal-Omega|
 |<a href="https://github.com/niqolla/django_projects">Other django projects</a>||Some basic projects that made me feel more comfortable with django |		
 
+
+<h3 align="center">
+<img src="./imgs/sql.png" height="50" width="" style="margin-right: 10px">
+</h3>
+
+|name|description|
+|---|---|
+|<a href="https://github.com/niqolla/sql_exercices">SQL exercicses</a>|Solutions for SQL problems from the book: Practice Problems: 57 Beginning, Intermediate, and  Advanced Challenges for You to  Solve Using a "Learn-by-Doing" Approach by Vasilik, Moestl Sylvia|
+
 <h3 align="center">
 <img src="./imgs/php.png" height="50" width="" style="margin-right: 10px">
 </h3>
