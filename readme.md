@@ -28,6 +28,7 @@
 
 |name|description|
 |---|---|
+|<a href="https://github.com/niqolla/ieo_RNAseq_project">RNA-Seq analysis</a>|Reproduciton of a publication regarding gene expression in different phases of lactation in humans|
 |<a href="https://github.com/niqolla/DataMining">Data Mining and Machine Learning</a>|Analysis of biological data with R (project: 1)|
 |<a href="https://github.com/niqolla/olig2">Olig2 Analysis</a>|A a chip-seq analysis in R to investigate OLIG2 as a transcription factor.|
 
